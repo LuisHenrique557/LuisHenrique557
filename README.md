@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Luís Henrique! 👋
 
-<!--
-**LuisHenrique557/LuisHenrique557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend em formação, focado em **Python**, **Orientação a Objetos (POO)** e **Bancos de Dados Relacionais**. Atualmente cursando **Análise e Desenvolvimento de Sistemas (Faculdade Anhanguera)**.
 
-Here are some ideas to get you started:
+Tenho uma base prática sólida em ecossistemas **Linux (Ubuntu/Bash)**, controle de versão com **Git/GitHub** e fundamentos de **Redes de Computadores (Cisco/IPv4)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python (POO), SQL, Bash
+- **Bancos de Dados:** MySQL, SQLite
+- **Ambiente & Ferramentas:** Ubuntu Linux, PyCharm, Git, GitHub (SSH), MySQL Workbench, VirtualBox, Cisco Packet Tracer
+- **Redes & Infra:** Conceitos Cisco, IPv4, Sub-roteamento, CLI Linux
+
+---
+
+### 📌 Projetos em Destaque
+
+- 📝 **[bloco-de-notas-cli](https://github.com/luishenrique557/bloco-de-notas-cli)**: Aplicação de terminal desenvolvida em Python POO com persistência de dados em SQLite e formatação avançada via biblioteca `rich`.
+
+---
+
+### 📬 Onde me encontrar
+
+- **LinkedIn:** [Luís Henrique no LinkedIn](https://www.linkedin.com/in/luis-henrique-dos-santos-concei%C3%A7%C3%A3o-93b5a23ba/)
+- **E-mail:** avoce4144@gmail.com
